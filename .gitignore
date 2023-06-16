@@ -1,0 +1,37 @@
+<html>
+ <header> 
+    <a>О заводе</a>
+    <a>Товары</a>
+
+</header>
+
+<body>
+    <main>
+        <h1>Магазин пельменей</h1>
+        <section> 
+            <h2>О заводе</h2>
+            <div class="cat"> 
+                <p>    Завод “Бульмень” создаёт    только качественный продукт.
+    Заказывайте пельмени и ваше настроение повысится на 99.99% 
+</p>
+                <img src="https://learn.algoritmika.org/uploads/2023/06/photo_2023-04-27_16-22-09_1686630182.jpg">
+
+            </div>
+            <h3>Товары</h3>
+                <div class="card">
+                    <img src="https://img.delo-vcusa.ru/2020/04/pelmeni-moskovskie.jpg">
+                    <p>пельмени + вилка</p>
+                    <h4>79.999 руб 99 коп.</h4>
+                    <div class="card">
+                    <img src="https://aif-s3.aif.ru/images/030/939/6b3cf4385535d605427875c0d60232fe.jpg">
+                    <p>пельмени + хлебушек</p>
+                    <h4>79.999 руб 98 коп.</h4>
+                </div>    
+            </div>
+        
+        </section>
+    </main>
+
+</body>
+
+</html>
